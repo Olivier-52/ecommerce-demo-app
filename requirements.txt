@@ -1,0 +1,6 @@
+pandas
+streamlit
+plotly
+wordcloud
+faiss-cpu
+setuptools

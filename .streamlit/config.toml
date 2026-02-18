@@ -1,0 +1,7 @@
+[browser]
+serverAddress = "localhost"
+
+[theme]
+base="light"
+primaryColor="#000000ff"
+textColor="#000000ff"
